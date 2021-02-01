@@ -1,6 +1,6 @@
 # CyberSecurity-analysis
 
-#### Analysis of cybersecurity Attacks #### <br>
+#### Analysis of cybersecurity Attacks #### 
 
 ### Exploring cybersecurity attacks ###
 Introduction to the Case study
